@@ -1,0 +1,8 @@
+C:\Users\sande\source\repos\SandeepConsoleApp\SandeepConsoleApp\obj\Debug\SandeepConsoleApp.csproj.AssemblyReference.cache
+C:\Users\sande\source\repos\SandeepConsoleApp\SandeepConsoleApp\obj\Debug\SandeepConsoleApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\sande\source\repos\SandeepConsoleApp\SandeepConsoleApp\obj\Debug\SandeepConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\sande\source\repos\SandeepConsoleApp\SandeepConsoleApp\bin\Debug\SandeepConsoleApp.exe.config
+C:\Users\sande\source\repos\SandeepConsoleApp\SandeepConsoleApp\bin\Debug\SandeepConsoleApp.exe
+C:\Users\sande\source\repos\SandeepConsoleApp\SandeepConsoleApp\bin\Debug\SandeepConsoleApp.pdb
+C:\Users\sande\source\repos\SandeepConsoleApp\SandeepConsoleApp\obj\Debug\SandeepConsoleApp.exe
+C:\Users\sande\source\repos\SandeepConsoleApp\SandeepConsoleApp\obj\Debug\SandeepConsoleApp.pdb
